@@ -1,0 +1,16 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: aqua;
+}
+h1 {
+    color: rgb(236, 109, 24);
+}
+.clicked {
+    color: darkorange;
+}
+.sexy-font {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
